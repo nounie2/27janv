@@ -1,0 +1,20 @@
+h1{
+  color:red;
+  text-align: center;
+  font-size: 50px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+    color: green;
+}
+li{
+  list-style: none;
+
+}
+p{
+  background-color: red;
+}
